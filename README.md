@@ -1,2 +1,2 @@
 # simple-dapp-voting
-Aplicación muy simple de votacione
+Aplicación muy simple de votaciones
